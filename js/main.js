@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
    */
 
 })
-let things = ['golfer', 'web developer', 'programmer.']
+let things = ['golfer.', 'web developer.', 'programmer.']
 let j = 0
 
 function typeThis() {
